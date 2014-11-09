@@ -10,7 +10,6 @@
 # 8. Derive Phraseness and store in /phraseness directory
 #
 # Created By: Yogesh Rane
-# Net ID: yrane2
 # Date: 10/23/2014
 ###############################################################################
 
